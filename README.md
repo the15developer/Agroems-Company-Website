@@ -21,4 +21,4 @@ The **Agroems** website is built using the following technologies:
 
 ## Contact
 
-If you'd like access to the full code for this project, feel free to reach out to me via email: [your-email@example.com](mailto:your-email@example.com).
+If you'd like access to the full code for this project, feel free to reach out to me via email: [dannyachami01@gmail.com](mailto:dannyachami01@gmail.com).
